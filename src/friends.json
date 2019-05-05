@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "image": "../src/components/FriendCard/img/walter-white.png",
+    "image": "https://github.com/pcruz0807/Clicky-Game/blob/master/src/components/FriendCard/img/Walter-White.png?raw=true",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "https://yt3.ggpht.com/a-/AAuE7mD8uYeYyWzUgU1lPKPqfqh-KhR4mF4N0VjpHg=s900-mo-c-c0xffffffff-rj-k-no",
+    "image": "https://github.com/pcruz0807/Clicky-Game/blob/master/src/components/FriendCard/img/gus.png?raw=true",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "https://cdn.costumewall.com/wp-content/uploads/2017/03/lana-kane-cosplay.jpg",
+    "image": "https://github.com/pcruz0807/Clicky-Game/blob/master/src/components/FriendCard/img/hank.png?raw=true",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "https://costumewall.com/wp-content/uploads/2017/10/pam-poovey.jpg",
+    "image": "https://github.com/pcruz0807/Clicky-Game/blob/master/src/components/FriendCard/img/hector.png?raw=true",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "https://imgix.ranker.com/user_node_img/2740/54785269/original/carol-tv-characters-photo-u1?w=280&h=280&fit=crop&crop=faces&q=50&fm=pjpg",
+    "image": "https://github.com/pcruz0807/Clicky-Game/blob/master/src/components/FriendCard/img/jane.png?raw=true",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "https://costumewall.com/wp-content/uploads/2018/09/dr-algernop-krieger.jpg",
+    "image": "https://github.com/pcruz0807/Clicky-Game/blob/master/src/components/FriendCard/img/jesse.png?raw=true",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-archer-adam-reed.jpg",
+    "image": "https://github.com/pcruz0807/Clicky-Game/blob/master/src/components/FriendCard/img/lydia.png?raw=true",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "https://img.fireden.net/co/image/1498/82/1498826439014.png",
+    "image": "https://github.com/pcruz0807/Clicky-Game/blob/master/src/components/FriendCard/img/mike.png?raw=true",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "https://i.imgur.com/9OWkL84.png",
+    "image": "https://github.com/pcruz0807/Clicky-Game/blob/master/src/components/FriendCard/img/saul.png?raw=true",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "https://m.media-amazon.com/images/M/MV5BMTY1MDk0MTExMl5BMl5BanBnXkFtZTgwMzgwOTM2MjE@._V1_UY268_CR87,0,182,268_AL_.jpg",
+    "image": "https://github.com/pcruz0807/Clicky-Game/blob/master/src/components/FriendCard/img/skylar.png?raw=true",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/RalphWiggum4.gif",
+    "image": "https://github.com/pcruz0807/Clicky-Game/blob/master/src/components/FriendCard/img/todd.png?raw=true",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/MoeSzyslak1.gif",
+    "image": "https://github.com/pcruz0807/Clicky-Game/blob/master/src/components/FriendCard/img/tuco.png?raw=true",
     "clicked": false
   }
 ]

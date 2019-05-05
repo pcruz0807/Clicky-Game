@@ -45,8 +45,9 @@ class App extends Component {
     if (newScore >= this.state.topScore) {
       this.setState({ topScore: newScore });
     }
-    else if (newScore === 12) {
+    else if (newScore === 11) {
       this.setState({ rightWrong: "You win!" });
+      console.log(newScore)
     }
     this.handleShuffle();
   };
@@ -55,7 +56,7 @@ class App extends Component {
     this.setState({
       currentScore: 0,
       topScore: this.state.topScore,
-      rightWrong: "Glaven!",
+      rightWrong: "Damn!",
       clicked: []
     });
     this.handleShuffle();
@@ -70,7 +71,7 @@ class App extends Component {
     return (
       <Wrapper>
         <Nav
-          title="Archer Clicky Game"
+          title="Breaking Bad Clicky Game"
           score={this.state.currentScore}
           topScore={this.state.topScore}
           rightWrong={this.state.rightWrong}
